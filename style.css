@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+body{
+}
+.container{
+    border: 2px solid black;
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 4px;
+}
+.head{
+    background: rgb(21, 238, 21);
+    padding: 20px;
+}
+.head h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.main input{
+    padding: 5px;
+    width: 250px;
+}
